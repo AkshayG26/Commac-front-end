@@ -7,7 +7,7 @@
 
 [npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
 [npm-coreui-badge]: https://img.shields.io/npm/v/@coreui/coreui.png?style=flat-square
-[npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-square
+[npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-squar
 [npm-coreui-react]: https://www.npmjs.com/package/@coreui/react
 [npm-coreui-react-badge]: https://img.shields.io/npm/v/@coreui/react.png?style=flat-square
 [npm-coreui-react-download]: https://img.shields.io/npm/dm/@coreui/react.svg?style=flat-square
